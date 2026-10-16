@@ -1,0 +1,6 @@
+{
+  "name": "AegisHealth Doctor & Clinic Booking",
+  "description": "Multi-specialty doctor appointment booking system with isolated patient dashboards, staff booking management, real-time clinical service availability, and Supabase SQL schemas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
